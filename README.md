@@ -6,4 +6,3 @@ L’objectif est de modéliser et simuler des scénario de suivi de personnes et
 
 [![GEMOC CSV V4 EXPLICATION ](http://www.roadtovr.com/wp-content/uploads/2015/03/youtube-logo2.jpg)](https://www.youtube.com/watch?v=RDJ_dDzr1KY&t=6s "GEMOC CSV V4 EXPLICATION ")
 
-<h1>Manuelle d'utilisation: </h1>
