@@ -4,4 +4,4 @@ L’objectif est de modéliser et simuler des scénario de suivi de personnes et
 
 <h1>Video Youtube représentant la partie avec le fichier CSV: </h1>
 
-[![GEMOC CSV V4 EXPLICATION ](https://img.youtube.com/vi/RDJ_dDzr1KY&t=6s/0.jpg)](https://www.youtube.com/watch?v=RDJ_dDzr1KY&t=6s "GEMOC CSV V4 EXPLICATION ")
+[![GEMOC CSV V4 EXPLICATION ](https://www.google.com.vn/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiQsJjp2MzUAhUIU7wKHelnCvAQjRwIBw&url=http%3A%2F%2Fwww.roadtovr.com%2Fcan-now-watch-360-youtube-videos-vr-currently-android%2F&psig=AFQjCNEYqW161JY28RITdhqydx86DQTzmg&ust=1498057365151985)](https://www.youtube.com/watch?v=RDJ_dDzr1KY&t=6s "GEMOC CSV V4 EXPLICATION ")
